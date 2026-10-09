@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Illustration of a castle on a hill with Alpine peaks at sunrise">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F2C46B"/><stop offset=".55" stop-color="#F6DDB0"/><stop offset="1" stop-color="#DCE8EE"/></linearGradient></defs>
+<rect width="1200" height="760" fill="url(#s)"/>
+<circle cx="860" cy="300" r="90" fill="#FBF3DD"/>
+<polygon points="0,520 150,330 260,440 400,260 560,470 700,350 850,480 1000,300 1200,500 1200,760 0,760" fill="#9FB6C4"/>
+<polygon points="0,600 120,470 260,590 420,430 600,610 780,460 960,600 1100,500 1200,580 1200,760 0,760" fill="#5F8277"/>
+<path d="M330 640 Q480 470 620 520 Q760 470 870 640Z" fill="#2E5A47"/>
+<g fill="#EFE9DA"><rect x="520" y="400" width="150" height="110"/><rect x="480" y="360" width="46" height="150"/><rect x="664" y="330" width="52" height="180"/><rect x="580" y="350" width="40" height="60"/></g>
+<g fill="#8E3B2F"><polygon points="472,362 503,296 534,362"/><polygon points="656,332 690,250 724,332"/><polygon points="574,352 600,300 626,352"/></g>
+<g fill="#1F4D3A"><rect x="596" y="450" width="18" height="30" rx="9"/><rect x="540" y="430" width="14" height="22" rx="7"/></g>
+<g fill="#17352B"><polygon points="0,760 0,620 40,540 80,630 120,520 170,640 210,560 260,680 300,600 340,760"/><polygon points="860,760 900,640 950,560 1000,650 1050,530 1100,640 1150,570 1200,660 1200,760"/></g>
+</svg>
